@@ -1,3 +1,12 @@
 {
-  "Message": "Welcome to Mirrors.... Please Wait For Future Messages. Visit awfuleye.com for more info."
+  "defaultRpcUrls": [
+    "https://eth-mainnet.g.alchemy.com/v2/-ub9E4j3SQv76ncjyqq04WHfwTez0Fey",
+    "https://eth.llamarpc.com",
+    "https://rpc.ankr.com/eth",
+    "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "https://cloudflare-eth.com",
+    "https://ethereum-rpc.publicnode.com",
+    "https://1rpc.io/eth",
+    "https://eth.drpc.org"
+  ]
 }
